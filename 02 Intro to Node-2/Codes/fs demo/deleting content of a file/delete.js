@@ -1,5 +1,10 @@
 const fs = require("fs");
 
-fs.truncate(__dirname + "/arvind.txt", () => {
-  console.log("file content deleted successfully");
+fs.unlink(__dirname + "/arvind.txt", (err) => {
+  if (err) {
+    console.error("Error deleting file:", err);
+    return;
+  }
+
+  console.log("File deleted successfully.");
 });
