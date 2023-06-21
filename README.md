@@ -8,12 +8,13 @@ My name is Arvind Pandit, a frontend developer exploring the backend world and s
 
 This repository is structured into six parts, each focusing on different aspects of Node.js. Here's a sneak peek into what you can expect from each part:
 
-1. 🌱 Introduction to Node - Part 1
-2. 🌱 Introduction to Node - Part 2
-3. 🧠 Node.js Concepts - Part 3
-4. 💡 Project 0
-5. 🌐 Client-Server Architecture
-6. ⚙️ Setting up an HTTP Server
+1. 🌱 [Introduction to Node - Part 1](https://github.com/arvindpndit/nodeJS/blob/master/01%20Intro%20to%20Node-1/node1.md)
+2. 🌱 [Introduction to Node - Part 2](https://github.com/arvindpndit/nodeJS/blob/master/02%20Intro%20to%20Node-2/node2.md)
+3. 💡 [Project 0 : CLI Notes (Ongoing Project)](https://github.com/arvindpndit/CLI-Notes)
+4. 🧠 Node.js - Part 3
+5. 💡 Project 1
+6. 🌐 Client-Server Architecture
+7. ⚙️ Setting up an HTTP Server
 
 ## 📚 Prerequisites
 
