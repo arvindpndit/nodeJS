@@ -20,6 +20,8 @@ Node.js provides several global objects and variables that are accessible throug
 - `module`: An object representing the current module.
 - `require()`: A function used to import modules or files.
 - `process`: An object representing the current Node.js process.
+- `console`: The console object provides methods to log and display information in the console.
+- `setTimeout & setInterval`: These functions are used to schedule the execution of code after a certain delay (setTimeout) or at fixed intervals (setInterval).
 
 For example, you can use `console.log(__dirname)` to print the current directory name or `console.log(process)` to access information about the current process.
 
