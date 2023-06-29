@@ -10,10 +10,10 @@ This repository is structured into six parts, each focusing on different aspects
 
 1. 🌱 [Introduction to Node - Part 1](https://github.com/arvindpndit/nodeJS/blob/master/01%20Intro%20to%20Node-1/node1.md)
 2. 🌱 [Introduction to Node - Part 2](https://github.com/arvindpndit/nodeJS/blob/master/02%20Intro%20to%20Node-2/node2.md)
-3. 💡 [Project 0 : CLI Notes (Ongoing Project)](https://github.com/arvindpndit/CLI-Notes)
+3. 💡 [Project 0 : CLI Notes](https://github.com/arvindpndit/CLI-Notes)
 4. 🧠 Node.js - Part 3
-5. 💡 Project 1
-6. 🌐 Client-Server Architecture
+5. 💡 [Project 1 : defineBOT ( Telegram Bot)](https://github.com/arvindpndit/defineBOT)
+6. 🌐 [Client-Server Architecture](https://github.com/arvindpndit/nodeJS/blob/master/04%20Client%20Server%20Achitecture/client_server.md)
 7. ⚙️ Setting up an HTTP Server
 
 ## 📚 Prerequisites
